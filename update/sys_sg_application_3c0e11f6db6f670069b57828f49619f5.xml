@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_application">
+    <sys_sg_application action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <available_offline>true</available_offline>
+        <default>false</default>
+        <description>Mobile Asset Mgmt Demo</description>
+        <icon display_value="copy">540e11f6db6f670069b57828f49619c5</icon>
+        <name>Mobile Asset Demo</name>
+        <order/>
+        <roles/>
+        <sys_class_name>sys_sg_application</sys_class_name>
+        <sys_created_by>tom.hauri</sys_created_by>
+        <sys_created_on>2019-02-14 14:09:56</sys_created_on>
+        <sys_id>3c0e11f6db6f670069b57828f49619f5</sys_id>
+        <sys_mod_count>2</sys_mod_count>
+        <sys_name>Mobile Asset Demo</sys_name>
+        <sys_package display_value="Mobile Asset Demo" source="x_snc_mobile_asm">a7cdd9b6db6f670069b57828f496194f</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Mobile Asset Demo">a7cdd9b6db6f670069b57828f496194f</sys_scope>
+        <sys_update_name>sys_sg_application_3c0e11f6db6f670069b57828f49619f5</sys_update_name>
+        <sys_updated_by>tom.hauri</sys_updated_by>
+        <sys_updated_on>2019-02-14 16:28:57</sys_updated_on>
+    </sys_sg_application>
+</record_update>

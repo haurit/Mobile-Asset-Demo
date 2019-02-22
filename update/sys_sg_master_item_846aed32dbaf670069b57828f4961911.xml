@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_master_item">
+    <sys_sg_master_item action="INSERT_OR_UPDATE">
+        <condition/>
+        <condition_order/>
+        <item_view display_value="One Asset item view">cc6aad32dbaf670069b57828f4961997</item_view>
+        <name>Master Item</name>
+        <screen display_value="Scan barcode">c06aad32dbaf670069b57828f49619eb</screen>
+        <sys_class_name>sys_sg_master_item</sys_class_name>
+        <sys_created_by>tom.hauri</sys_created_by>
+        <sys_created_on>2019-02-14 15:03:58</sys_created_on>
+        <sys_id>846aed32dbaf670069b57828f4961911</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Master Item</sys_name>
+        <sys_package display_value="Mobile Asset Demo" source="x_snc_mobile_asm">a7cdd9b6db6f670069b57828f496194f</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Mobile Asset Demo">a7cdd9b6db6f670069b57828f496194f</sys_scope>
+        <sys_update_name>sys_sg_master_item_846aed32dbaf670069b57828f4961911</sys_update_name>
+        <sys_updated_by>tom.hauri</sys_updated_by>
+        <sys_updated_on>2019-02-14 15:03:58</sys_updated_on>
+        <table>alm_hardware</table>
+    </sys_sg_master_item>
+</record_update>

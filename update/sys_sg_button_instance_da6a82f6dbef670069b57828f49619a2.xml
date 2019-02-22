@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_button_instance">
+    <sys_sg_button_instance action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <button display_value="Set to in use">e0ec61f2dbaf670069b57828f496196e</button>
+        <description/>
+        <field_name/>
+        <label>In Use</label>
+        <location>leading_swipe</location>
+        <name>In Use</name>
+        <order>1</order>
+        <parent>846aed32dbaf670069b57828f4961911</parent>
+        <parent_table>sys_sg_master_item</parent_table>
+        <sys_class_name>sys_sg_button_instance</sys_class_name>
+        <sys_created_by>tom.hauri</sys_created_by>
+        <sys_created_on>2019-02-14 17:23:55</sys_created_on>
+        <sys_id>da6a82f6dbef670069b57828f49619a2</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>In Use</sys_name>
+        <sys_package display_value="Mobile Asset Demo" source="x_snc_mobile_asm">a7cdd9b6db6f670069b57828f496194f</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Mobile Asset Demo">a7cdd9b6db6f670069b57828f496194f</sys_scope>
+        <sys_update_name>sys_sg_button_instance_da6a82f6dbef670069b57828f49619a2</sys_update_name>
+        <sys_updated_by>tom.hauri</sys_updated_by>
+        <sys_updated_on>2019-02-14 17:23:55</sys_updated_on>
+        <table/>
+    </sys_sg_button_instance>
+</record_update>

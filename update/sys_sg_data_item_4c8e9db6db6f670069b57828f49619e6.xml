@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_data_item">
+    <sys_sg_data_item action="INSERT_OR_UPDATE">
+        <condition_type>declarative</condition_type>
+        <description>All Hardware Assets</description>
+        <group_by>install_status</group_by>
+        <name>All Assets</name>
+        <query_condition/>
+        <query_condition_script/>
+        <sys_class_name>sys_sg_data_item</sys_class_name>
+        <sys_created_by>tom.hauri</sys_created_by>
+        <sys_created_on>2019-02-14 14:12:04</sys_created_on>
+        <sys_id>4c8e9db6db6f670069b57828f49619e6</sys_id>
+        <sys_mod_count>2</sys_mod_count>
+        <sys_name>All Assets</sys_name>
+        <sys_package display_value="Mobile Asset Demo" source="x_snc_mobile_asm">a7cdd9b6db6f670069b57828f496194f</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Mobile Asset Demo">a7cdd9b6db6f670069b57828f496194f</sys_scope>
+        <sys_update_name>sys_sg_data_item_4c8e9db6db6f670069b57828f49619e6</sys_update_name>
+        <sys_updated_by>tom.hauri</sys_updated_by>
+        <sys_updated_on>2019-02-14 14:20:36</sys_updated_on>
+        <table>alm_hardware</table>
+    </sys_sg_data_item>
+</record_update>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_master_detail_screen">
+    <sys_sg_master_detail_screen action="INSERT_OR_UPDATE">
+        <application_roles/>
+        <available_offline>true</available_offline>
+        <data_item display_value="All Assets">4c8e9db6db6f670069b57828f49619e6</data_item>
+        <description>List all the available Assets</description>
+        <fetch_type>not_required</fetch_type>
+        <hidden>false</hidden>
+        <icon display_value="copy">df9069badb6f670069b57828f49619ab</icon>
+        <name>Show registered Assets</name>
+        <order>10</order>
+        <parent>b80e11f6db6f670069b57828f49619f6</parent>
+        <parent_table>sys_sg_folder</parent_table>
+        <roles_override/>
+        <sys_class_name>sys_sg_master_detail_screen</sys_class_name>
+        <sys_created_by>tom.hauri</sys_created_by>
+        <sys_created_on>2019-02-14 14:21:19</sys_created_on>
+        <sys_id>2b90a5f6db6f670069b57828f496196f</sys_id>
+        <sys_mod_count>2</sys_mod_count>
+        <sys_name>Show registered Assets</sys_name>
+        <sys_package display_value="Mobile Asset Demo" source="x_snc_mobile_asm">a7cdd9b6db6f670069b57828f496194f</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Mobile Asset Demo">a7cdd9b6db6f670069b57828f496194f</sys_scope>
+        <sys_update_name>sys_sg_master_detail_screen_2b90a5f6db6f670069b57828f496196f</sys_update_name>
+        <sys_updated_by>tom.hauri</sys_updated_by>
+        <sys_updated_on>2019-02-14 14:22:59</sys_updated_on>
+    </sys_sg_master_detail_screen>
+</record_update>
